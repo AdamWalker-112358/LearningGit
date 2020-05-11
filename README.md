@@ -8,3 +8,7 @@ This a change to my branch
 
 
 ## Important stuff to be added here
+
+
+## Important stuff to be added here
+[Latest Release](/)
